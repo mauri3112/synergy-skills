@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec together"
+  short_description: "Design features together with diagrams and clear checkpoints"
+  default_prompt: "Use $spec-together to turn my app or feature idea into a complete specification, agreeing on each part through questions and diagrams."
