@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run task"
+  short_description: "Run repeatable tasks with compact recovery notes"
+  default_prompt: "Use $run-task to execute or resume this repeatable task, following its runbook and saving only meaningful progress and lessons."

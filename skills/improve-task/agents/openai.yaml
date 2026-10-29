@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve task"
+  short_description: "Improve a task runbook from verified run evidence"
+  default_prompt: "Use $improve-task to review evidence from this recurring task and make only supported, useful changes to its runbook."
